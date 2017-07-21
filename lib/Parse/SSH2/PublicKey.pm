@@ -8,7 +8,7 @@ use MIME::Base64;
 use Carp qw/confess/;
 no warnings qw/substr uninitialized/;
 
-our $VERSION = 0.01;
+our $VERSION = 0.011;
 
 =head1 NAME
 

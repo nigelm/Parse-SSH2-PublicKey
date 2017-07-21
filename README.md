@@ -1,6 +1,6 @@
 # Parse-SSH2-PublicKey
 
-Version: 0.01
+Version: 0.011
 
 This module parses SSH2 public keys from text files. It can parse both
 OpenSSH and SECSH key file formats and will parse multiple keys out of a
